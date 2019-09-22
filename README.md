@@ -23,11 +23,19 @@ Leaves the program and frees all the memory.
 
 An example run would look like this:
 A China
+
 A Finland
+
 M China 2 1 1
+
 M Finland 0 0 1
+
 M China 1 3 1
+
 M China -1 0 0
+
 L
+
 W medals
+
 Q.
